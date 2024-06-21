@@ -15,14 +15,13 @@ puedes interactuar con el sistema de archivos del contenedor y realizar varias t
 en el archivo index se encontraba en el host se copio al host
 ### Ir a https://html5up.net/ y descargar un template gratuito, descomprirlo dentro de nginx/html
 ### ¿Qué sucede al ingresar al servidor de nginx?
-
+podemos ver todos los archivos que se cargaron desde el hot al contenedor
 ### Eliminar el contenedor
 
 ### ¿Qué sucede al crear nuevamente el mismo contenedor con volumen de tipo host a los directorios definidos anteriormente?
-# COMPLETAR CON LA RESPUESTA A LA PREGUNTA
-
+el contenedor se crea sin complicaciones
 ### ¿Qué hace el comando pwd?
-# COMPLETAR CON LA RESPUESTA A LA PREGUNTA
+el sistema operativo devuelve la ruta completa desde la raíz del sistema de archivos hasta el directorio en el que estás ubicado actualmente.
 Si quieres incluir el comando pwd dentro de un comando de Docker, lo puedes hacer de diferentes maneras dependiendo del shell que estés utilizando.
 
 
